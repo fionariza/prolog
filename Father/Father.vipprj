@@ -58,6 +58,7 @@
     <item-map filename="$(ProDir)pfc\windowsApi\systemInformation_api\systemInformation_api.pack" />
     <item-map filename="$(ProDir)pfc\windowsApi\time_api\time_api.pack" />
     <item-map filename="$(ProDir)pfc\windowsApi\windowsAPI.pack" />
+    <item-map filename="fa.txt" />
     <item-map filename="main.manifest" />
     <item-map filename="main.pack" />
     <item-map filename="main.version" />

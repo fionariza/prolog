@@ -1,0 +1,19 @@
+﻿#requires @"aboutDialog\aboutDialog.dlg"
+
+% own pack
+#include @"aboutDialog\aboutDialog.ph"
+
+% privately used packages
+#include @"pfc\core.ph"
+#include @"pfc\gui\controls\controls.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\vpi\vpi.ph"
+#include @"pfc\vpi\vpiDomains\vpiDomains.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"aboutDialog\aboutDialog.pro"
+

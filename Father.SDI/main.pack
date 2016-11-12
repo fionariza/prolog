@@ -1,0 +1,16 @@
+﻿% own pack
+#include @"main.ph"
+
+% privately used packages
+#include @"MainForm\MainForm.ph"
+#include @"pfc\core.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\gui\messageLoop\messageLoop.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"main.pro"
+
